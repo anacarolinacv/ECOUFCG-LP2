@@ -5,13 +5,13 @@ Projeto da disciplina Laboratório de Programação 2.
 
 # Projeto feito acompanhado por:
 1. Luciano Erick Fiqueiredo
-GitHub: 
+GitHub:<br /> 
 [link](https://github.com/LucianErick)
 
 2. Artur Sousa
-GitHub:
+GitHub:<br />
 [link](https://github.com/arturbs)
 
 3. Gutemberg S.
-GitHub:
+GitHub:<br />
 [link](https://github.com/GitBerg)
